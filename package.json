@@ -3,7 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "overrides": {
-    "glob": "^10.5.0"
+    "glob": "^10.5.0",
+    "nth-check": "^2.0.1"
   },
   "dependencies": {
     "@chakra-ui/react": "^2.8.2",
