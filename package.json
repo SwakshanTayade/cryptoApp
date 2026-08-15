@@ -8,7 +8,8 @@
     "underscore": "^1.13.8",
     "svgo":"^2.8.3",
     "postcss":"^8.5.12",
-    "serialize-javascript":"^7.0.3"
+    "serialize-javascript":"^7.0.3",
+    "webpack-dev-server":"^5.2.1"
 
   },
   "dependencies": {
