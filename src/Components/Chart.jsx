@@ -9,7 +9,6 @@ import { Chart as ChartJS,
     Tooltip, 
     Legend 
 } from 'chart.js'
-import { Box } from '@chakra-ui/react';
 
 ChartJS.register({
     LinearScale, 

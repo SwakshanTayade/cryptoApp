@@ -1,4 +1,4 @@
-import { Card, Container, Stack, VStack, Image, HStack, Heading, Text, Button, Select, Avatar } from '@chakra-ui/react'
+import { Container, Stack, Heading, Button, Select } from '@chakra-ui/react'
 import React, { useEffect, useState } from 'react'
 import { Global } from '@emotion/react'
 import axios from 'axios'

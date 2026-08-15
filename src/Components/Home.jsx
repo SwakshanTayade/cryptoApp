@@ -1,4 +1,4 @@
-import { Box, Heading, Image, VStack } from '@chakra-ui/react'
+import { Box, Image } from '@chakra-ui/react'
 import React from 'react'
 import bitc from "../assests/bitc.png"
 import {motion} from 'framer-motion'

@@ -3,8 +3,7 @@ import React, { useEffect, useState } from 'react'
 import { useParams } from 'react-router-dom'
 import ErrorComponent from './ErrorComponent';
 import Loader from './Loader';
-import { BiArrowFromBottom } from "react-icons/bi"
-import { Badge, Box, Button, Container, HStack, Heading, Image, Progress, Select, SelectField, Stack, Stat, StatArrow, StatHelpText, StatLabel, StatNumber, Text, VStack } from '@chakra-ui/react';
+import { Badge, Box, HStack, Heading, Image, Progress, Select, Stack, Stat, StatArrow, StatHelpText, StatNumber, Text, VStack } from '@chakra-ui/react';
 import Chart from './Chart';
 const CoinDetails = (params) => {
 

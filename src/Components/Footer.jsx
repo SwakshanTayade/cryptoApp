@@ -1,4 +1,4 @@
-import { Avatar, HStack, Heading, Stack, Text, VStack } from '@chakra-ui/react'
+import { Avatar, Heading, Stack, Text, VStack } from '@chakra-ui/react'
 import React from 'react'
 import img6 from '../assests/img6.jpg'
 const Footer = () => {

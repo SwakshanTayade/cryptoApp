@@ -1,5 +1,5 @@
 import React from 'react'
-import {Container, Stack, Card, VStack, HStack, Text, Heading, Image } from '@chakra-ui/react'
+import {Card, VStack, HStack, Text, Heading, Image } from '@chakra-ui/react'
 const ExchangeCard = (props) => {
 
     const { image, name, year_established, country, description, url,rank } = props
