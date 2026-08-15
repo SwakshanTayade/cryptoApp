@@ -2,6 +2,9 @@
   "name": "cryptoapp",
   "version": "0.1.0",
   "private": true,
+  "overrides": {
+    "glob": "^10.5.0"
+  },
   "dependencies": {
     "@chakra-ui/react": "^2.8.2",
     "@emotion/react": "^11.11.4",
